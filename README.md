@@ -48,13 +48,6 @@ Sou escritor com experiência em roteiros para vídeos, jogos e histórias. Tamb
 - Enfrentar novos desafios  
 - Crescimento pessoal e técnico
 
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegotassodev&layout=compact&theme=tokyonight" />
-</p>
-
 ## 📬 Contato
 - ✉️ Email: diegotassodev@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/diegotassodev/ 
