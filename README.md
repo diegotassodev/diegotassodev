@@ -5,13 +5,6 @@ Sou focado no meu desenvolvimento profissional além da área de tecnologia, apl
 
 Minha stack principal é o C# utilizando ambiente .NET para desenvolvimento de aplicações escaláveis.
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=diegotassodev&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegotassodev&layout=compact&theme=tokyonight" />
-</p>
-
 ## 🤝 Soft Skills
 - Gestão de projetos  
 - Liderança de equipe  
@@ -54,6 +47,13 @@ Sou escritor com experiência em roteiros para vídeos, jogos e histórias. Tamb
 - Aprendizado contínuo  
 - Enfrentar novos desafios  
 - Crescimento pessoal e técnico
+
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegotassodev&layout=compact&theme=tokyonight" />
+</p>
 
 ## 📬 Contato
 - ✉️ Email: diegotassodev@gmail.com  
