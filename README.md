@@ -1,9 +1,7 @@
 # Olá, eu me chamo Diego! 🤝
 
 ## 🧑‍💻 Sobre mim
-Sou focado no meu desenvolvimento profissional além da área de tecnologia, aplicando conceitos de **psicologia dos hábitos** para melhorar minha produtividade e eficiência. Adepto da prática do estoicismo e sempre em busca de autoconhecimento.
-
-Minha stack principal é o C# utilizando ambiente .NET para desenvolvimento de aplicações escaláveis.
+Desenvolvedor focado em C# e .NET, interessado em construir aplicações escaláveis e sistemas bem estruturados. Busco aplicar princípios de código limpo e arquitetura para criar software confiável.
 
 ## 🤝 Soft Skills
 - Gestão de projetos  
