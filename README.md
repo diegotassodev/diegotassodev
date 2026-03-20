@@ -1,51 +1,30 @@
-# Olá, eu me chamo Diego! 🤝
+# Olá, eu sou Diego 👋
 
+**Back-End Developer | C# .NET**
+
+---
 ## 🧑‍💻 Sobre mim
-Desenvolvedor focado em C# e .NET, interessado em construir aplicações escaláveis e sistemas bem estruturados. Busco aplicar princípios de código limpo e arquitetura para criar software confiável.
+Desenvolvedor com foco em Back-End utilizando C# e .NET, com interesse em construção de sistemas escaláveis, bem estruturados e de fácil manutenção. Experiência no desenvolvimento de aplicações com regras de negócio, integração com banco de dados e organização baseada em princípios como Clean Code, Programação Orientada a Objetos e Arquitetura em Camadas.
 
-## 🤝 Soft Skills
-- Gestão de projetos  
-- Liderança de equipe  
-- Comunicação e oratória  
-- Colaboração multidisciplinar  
-- Resiliência e disciplina
+---
+# 🛠️ Stack Tecnológica
+## Backend
+C#, .NET, Java, Python
 
-## 🛠️ Hard Skills
+## Banco de Dados
+MySQL, SQLite
 
-### Backend
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## Conceitos
+OOP, Clean Code, Arquitetura em Camadas, Repository Pattern, Service Layer
 
+## Ferramentas
+Git, Linux, VS Code, NetBeans
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+---
+## 📈 Objetivo
+Atuar como desenvolvedor Back-End .NET, contribuindo na construção de sistemas robustos e evoluindo tecnicamente em ambientes de desenvolvimento reais.
 
-### Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-### Game Development
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
-## ✍️ Escrita e Conteúdo
-Sou escritor com experiência em roteiros para vídeos, jogos e histórias. Também atuo como editor de vídeos, utilizando **CapCut e Audacity**.
-
-## 🎯 Objetivos e valores
-- Inovação constante  
-- Aprendizado contínuo  
-- Enfrentar novos desafios  
-- Crescimento pessoal e técnico
-
+---
 ## 📬 Contato
-- ✉️ Email: diegotassodev@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/diegotassodev/ 
+📧 Email: diegotassodev@gmail.com
+🔗 LinkedIn: linkedin.com/in/diegotassodev
